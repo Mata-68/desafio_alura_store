@@ -80,4 +80,5 @@ Jupyter Notebook
 
 ✍️ Autor
 
-[Nombre del analista o equipo de trabajo]Unidad de Análisis Comercial - Alura Store LATAM
+Marcelo A. Torres Alegría 
+Unidad de Análisis Comercial
